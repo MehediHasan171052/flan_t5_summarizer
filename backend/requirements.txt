@@ -1,9 +1,7 @@
-torch==2.9.0
-transformers==4.57.1
-sentencepiece==0.2.1
-fastapi==0.120.2
-uvicorn==0.38.0
-python-dotenv==1.2.1
-click==8.3.0
-h11==0.16.0
-starlette>=0.40.0,<0.50.0
+torch
+transformers
+sentencepiece
+fastapi
+uvicorn
+python-dotenv
+
