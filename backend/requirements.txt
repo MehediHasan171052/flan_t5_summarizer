@@ -1,6 +1,7 @@
-fastapi
-uvicorn
-torch
-transformers
-python-dotenv
-sentencepiece
+
+torch==2.0.1+cpu
+transformers==4.57.1
+fastapi==0.120.2
+uvicorn==0.38.0
+python-dotenv==1.2.1
+sentencepiece==0.2.1
