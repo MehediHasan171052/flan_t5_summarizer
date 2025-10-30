@@ -1,5 +1,5 @@
-
-torch==2.0.1+cpu
+# CPU-compatible PyTorch
+torch==2.0.1
 transformers==4.57.1
 fastapi==0.120.2
 uvicorn==0.38.0
